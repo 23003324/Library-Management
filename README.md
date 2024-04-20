@@ -23,7 +23,9 @@ In this module the user can cancel their name which is registered for the Book.
 Star UML
 ### UML Diagrams:
 ## USECASE DIAGRAM :
-![image](https://github.com/23003324/Library-Management/assets/140035234/9534ca10-d585-48ec-bf3e-71c8458f2cc3)
+
+![Screenshot 2024-04-20 100701](https://github.com/23003324/Library-Management/assets/140035234/957f2737-d085-4a6c-9698-d49910bf06a2)
+
 ## CLASS DIAGRAM :
 ![Screenshot 2024-04-20 100732](https://github.com/23003324/Library-Management/assets/140035234/69b923fa-3b84-4668-9280-af045c27665a)
 
