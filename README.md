@@ -24,7 +24,8 @@ Star UML
 ### UML Diagrams:
 ## USECASE DIAGRAM :
 
-![Screenshot 2024-04-20 100701](https://github.com/23003324/Library-Management/assets/140035234/957f2737-d085-4a6c-9698-d49910bf06a2)
+
+![Screenshot 2024-04-20 101630](https://github.com/23003324/Library-Management/assets/140035234/70d7c792-e81a-4ee3-b79c-b43ff982938d)
 
 ## CLASS DIAGRAM :
 ![Screenshot 2024-04-20 100732](https://github.com/23003324/Library-Management/assets/140035234/69b923fa-3b84-4668-9280-af045c27665a)
